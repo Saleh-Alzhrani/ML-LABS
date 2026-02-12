@@ -1,0 +1,201 @@
+Sales Person,Country,Product,Date,Amount,Boxes Shipped
+Karen Clark,China,Organic Fair Trade,19/02/2022,"$39,199.64",413
+Daniel Lee,USA,Arabica Dark Roast,16/11/2022,"$5,214.27",152
+Daniel Lee,China,Robusta Medium,02/10/2023,"$26,553.48",325
+John Doe,Australia,Breakfast Blend,21/04/2022,"$14,547.43",370
+Laura Martinez,UK,French Roast,13/04/2023,"$15,270.04",156
+George Young,Canada,Colombian Supremo,15/10/2022,"$3,371.67",117
+Laura Martinez,USA,Arabica Dark Roast,13/09/2023,"$8,478.10",103
+Sarah Taylor,Germany,Espresso Blend,23/09/2023,"$7,127.36",195
+David Anderson,UK,Espresso Blend,30/05/2023,"$7,945.88",193
+Betty King,Brazil,Hazelnut Cream,27/10/2023,"$9,648.78",188
+George Young,Germany,Robusta Medium,07/04/2023,"$7,572.06",142
+Betty King,Germany,Arabica Dark Roast,15/08/2022,"$4,850.03",49
+Lisa Lewis,UK,Robusta Medium,20/06/2022,"$17,970.84",390
+Betty King,UK,Espresso Blend,08/08/2022,"$2,688.88",37
+Betty King,India,Colombian Supremo,14/09/2023,"$16,396.38",358
+Nancy Allen,Canada,Espresso Blend,12/02/2022,"$25,028.81",251
+Matthew Walker,Australia,Colombian Supremo,06/02/2023,"$17,753.49",343
+Jane Smith,Australia,Arabica Dark Roast,09/11/2023,"$24,407.22",314
+Jessica Garcia,Brazil,Arabica Dark Roast,12/08/2022,$741.42,16
+Jane Smith,Brazil,Organic Fair Trade,05/04/2023,$248.18,10
+Robert Hernandez,Canada,Breakfast Blend,16/08/2023,"$4,302.54",99
+Laura Martinez,Brazil,Espresso Blend,11/02/2023,"$14,211.31",156
+Laura Martinez,China,Breakfast Blend,31/03/2022,"$7,674.04",147
+Kevin Robinson,Brazil,Breakfast Blend,18/08/2022,"$2,617.75",125
+Karen Clark,China,French Roast,15/06/2022,"$10,226.70",130
+Karen Clark,China,Colombian Supremo,11/05/2022,"$15,333.95",494
+Karen Clark,Canada,French Roast,12/08/2023,"$3,933.70",89
+Jessica Garcia,Brazil,Colombian Supremo,02/08/2022,"$6,788.94",139
+Jessica Garcia,USA,Espresso Blend,20/02/2023,"$19,707.95",307
+John Doe,India,Espresso Blend,11/07/2023,"$21,003.46",479
+Daniel Lee,India,Ethiopian Yirgacheffe,29/09/2023,$705.96,15
+Jessica Garcia,Brazil,Robusta Medium,24/08/2023,"$20,464.93",378
+Jane Smith,UK,Espresso Blend,10/02/2023,"$14,719.30",280
+Chris Wilson,China,Organic Fair Trade,16/05/2022,"$21,453.89",379
+Jessica Garcia,UK,Breakfast Blend,12/01/2022,"$13,907.72",202
+Chris Wilson,UK,Ethiopian Yirgacheffe,20/03/2022,"$1,080.60",16
+Laura Martinez,UK,Colombian Supremo,02/06/2023,"$4,632.94",52
+John Doe,Australia,Colombian Supremo,18/09/2022,"$12,769.95",444
+Laura Martinez,India,Colombian Supremo,03/06/2023,"$8,138.98",217
+Jennifer Rodriguez,Germany,Breakfast Blend,27/02/2022,"$39,236.36",432
+John Doe,Germany,Robusta Medium,12/09/2022,"$13,028.00",385
+Jane Smith,Australia,Hazelnut Cream,27/05/2023,"$1,759.77",38
+Michael Brown,China,Arabica Dark Roast,23/08/2022,"$7,226.18",167
+Michael Brown,UK,Hazelnut Cream,24/08/2023,"$4,136.98",177
+John Doe,Germany,Decaf House Blend,04/10/2022,"$5,677.45",67
+Robert Hernandez,Australia,Decaf House Blend,22/09/2022,"$6,368.67",185
+Robert Hernandez,Canada,Colombian Supremo,16/06/2022,"$22,370.33",304
+Chris Wilson,UK,Ethiopian Yirgacheffe,22/04/2022,"$11,361.46",196
+Kevin Robinson,China,Arabica Dark Roast,09/01/2022,"$4,660.31",92
+Nancy Allen,India,Espresso Blend,03/03/2023,"$10,007.82",272
+Michael Brown,Brazil,Arabica Dark Roast,22/11/2022,"$4,666.28",158
+Jennifer Rodriguez,Canada,Arabica Dark Roast,14/11/2023,"$5,159.22",69
+George Young,Brazil,Robusta Medium,30/11/2022,"$5,737.80",144
+Michael Brown,UK,French Roast,05/07/2022,"$8,526.88",92
+Michael Brown,Australia,Breakfast Blend,02/11/2022,"$19,308.09",211
+Kevin Robinson,Canada,Colombian Supremo,08/08/2023,"$25,645.89",278
+Robert Hernandez,Canada,Breakfast Blend,10/07/2023,"$8,838.56",224
+Kevin Robinson,France,Colombian Supremo,29/09/2022,"$8,078.80",241
+Emily Davis,France,Decaf House Blend,19/01/2023,"$4,352.87",57
+Lisa Lewis,India,Espresso Blend,27/04/2022,"$17,937.28",195
+Jane Smith,USA,Decaf House Blend,08/07/2023,"$9,709.87",130
+David Anderson,Japan,Organic Fair Trade,16/06/2023,"$11,100.74",313
+George Young,China,French Roast,01/09/2022,"$20,966.64",319
+Robert Hernandez,Brazil,Decaf House Blend,02/05/2022,"$17,764.78",198
+Robert Hernandez,France,Decaf House Blend,27/02/2023,"$19,061.64",280
+Emily Davis,Brazil,Decaf House Blend,18/06/2023,"$17,250.14",276
+Nancy Allen,UK,Organic Fair Trade,08/07/2023,"$16,518.41",352
+Daniel Lee,UK,French Roast,23/01/2023,"$3,662.52",98
+Michael Brown,Japan,French Roast,25/01/2023,"$16,564.12",217
+John Doe,France,Arabica Dark Roast,25/10/2022,"$46,361.34",471
+Laura Martinez,France,Arabica Dark Roast,27/09/2023,"$7,824.30",130
+Matthew Walker,India,Hazelnut Cream,25/05/2022,"$6,537.19",113
+Chris Wilson,India,Colombian Supremo,18/01/2022,"$3,874.52",68
+Michael Brown,Japan,French Roast,21/08/2023,"$16,980.32",315
+Jessica Garcia,Japan,Organic Fair Trade,03/12/2023,"$39,950.83",410
+Emily Davis,China,Hazelnut Cream,18/06/2022,"$6,730.22",82
+Sarah Taylor,USA,Arabica Dark Roast,09/02/2023,"$3,193.36",110
+David Anderson,Brazil,Breakfast Blend,05/08/2022,"$26,524.70",496
+Jennifer Rodriguez,France,Espresso Blend,26/06/2023,"$9,966.17",130
+Nancy Allen,India,Arabica Dark Roast,20/09/2023,"$17,133.39",281
+Jane Smith,France,Arabica Dark Roast,30/08/2023,"$25,918.89",337
+David Anderson,Brazil,French Roast,20/05/2022,"$19,266.67",272
+Lisa Lewis,Canada,Breakfast Blend,13/08/2022,"$4,232.65",76
+Sarah Taylor,France,Ethiopian Yirgacheffe,27/05/2023,"$23,227.41",239
+Chris Wilson,Brazil,Colombian Supremo,25/09/2023,"$25,436.72",292
+Brian Hall,Australia,Decaf House Blend,08/09/2022,"$9,250.90",292
+Matthew Walker,Canada,Breakfast Blend,29/08/2023,"$11,959.98",220
+George Young,Japan,Colombian Supremo,25/12/2023,"$31,722.72",435
+Lisa Lewis,Canada,Organic Fair Trade,29/11/2023,"$2,269.74",65
+Nancy Allen,China,Organic Fair Trade,02/09/2022,"$1,991.01",42
+George Young,Germany,Breakfast Blend,15/07/2022,"$17,902.84",240
+Nancy Allen,UK,Espresso Blend,21/10/2023,"$8,797.48",323
+Emily Davis,Canada,Decaf House Blend,25/12/2023,"$26,266.35",329
+Daniel Lee,India,Espresso Blend,12/12/2023,"$18,738.56",212
+Jane Smith,Germany,Ethiopian Yirgacheffe,10/08/2022,"$8,079.81",88
+Laura Martinez,China,Espresso Blend,29/08/2023,"$15,978.39",451
+Laura Martinez,USA,French Roast,05/09/2022,"$17,509.43",344
+George Young,Germany,Decaf House Blend,25/10/2023,"$17,354.41",479
+Sarah Taylor,China,French Roast,29/05/2022,"$22,503.95",315
+Brian Hall,Japan,French Roast,22/04/2023,"$9,924.76",110
+Lisa Lewis,India,Colombian Supremo,20/10/2022,"$31,095.19",321
+Matthew Walker,China,French Roast,19/05/2023,"$23,422.83",252
+Nancy Allen,India,Decaf House Blend,19/06/2023,"$4,735.01",181
+Nancy Allen,UK,Arabica Dark Roast,26/07/2022,"$11,070.99",153
+Nancy Allen,Brazil,Espresso Blend,28/01/2022,"$25,944.13",456
+Laura Martinez,India,Hazelnut Cream,25/07/2022,"$44,906.69",483
+Matthew Walker,France,Breakfast Blend,09/07/2023,"$19,896.91",244
+Nancy Allen,France,Arabica Dark Roast,11/07/2023,"$4,841.89",97
+Emily Davis,China,Robusta Medium,02/10/2022,"$14,598.14",173
+Karen Clark,Australia,Decaf House Blend,01/02/2022,"$1,269.35",31
+Karen Clark,Japan,Hazelnut Cream,27/11/2022,"$1,084.59",22
+Jane Smith,Canada,Organic Fair Trade,21/08/2022,"$5,597.80",192
+John Doe,Germany,Hazelnut Cream,09/11/2022,"$3,158.49",83
+Laura Martinez,Brazil,Decaf House Blend,12/07/2023,"$2,041.31",22
+Sarah Taylor,Japan,Espresso Blend,27/10/2023,"$4,090.00",88
+Karen Clark,UK,Ethiopian Yirgacheffe,22/05/2022,"$12,015.82",238
+Matthew Walker,USA,Hazelnut Cream,05/06/2022,"$38,845.98",469
+Sarah Taylor,Japan,Robusta Medium,27/05/2022,"$23,995.66",333
+Jennifer Rodriguez,Germany,Arabica Dark Roast,08/07/2022,"$7,129.11",234
+Sarah Taylor,India,Robusta Medium,25/08/2022,"$12,912.15",479
+Jennifer Rodriguez,Japan,Colombian Supremo,06/03/2023,"$18,329.26",299
+Matthew Walker,Japan,Decaf House Blend,08/02/2022,"$35,752.06",391
+Chris Wilson,USA,French Roast,26/11/2023,"$34,288.38",355
+Jennifer Rodriguez,USA,Colombian Supremo,30/08/2022,"$14,551.34",206
+Kevin Robinson,Germany,Robusta Medium,14/02/2023,"$12,930.02",332
+Jessica Garcia,France,Ethiopian Yirgacheffe,24/09/2023,"$10,602.97",279
+Karen Clark,UK,Breakfast Blend,31/07/2023,"$10,522.37",164
+Jane Smith,China,Arabica Dark Roast,23/12/2023,"$7,658.83",275
+Nancy Allen,India,Hazelnut Cream,06/04/2022,"$23,221.69",276
+Robert Hernandez,Brazil,Arabica Dark Roast,04/04/2022,$961.49,29
+Jessica Garcia,UK,Robusta Medium,26/08/2023,"$11,327.80",150
+Betty King,Germany,Colombian Supremo,29/12/2023,"$5,606.64",58
+David Anderson,Australia,Breakfast Blend,21/04/2023,"$16,422.42",197
+Sarah Taylor,Australia,Hazelnut Cream,11/01/2022,"$18,889.96",346
+Kevin Robinson,Canada,Colombian Supremo,09/01/2023,"$21,623.37",324
+George Young,Japan,Robusta Medium,09/05/2023,"$21,079.54",238
+Laura Martinez,Germany,French Roast,17/07/2022,"$20,664.99",398
+Jessica Garcia,India,Arabica Dark Roast,03/08/2023,"$31,062.56",334
+Emily Davis,Germany,Robusta Medium,04/11/2023,"$2,726.91",112
+Robert Hernandez,China,Robusta Medium,17/10/2022,"$7,253.04",133
+Michael Brown,USA,Arabica Dark Roast,26/04/2023,"$21,359.11",285
+Nancy Allen,China,Organic Fair Trade,01/04/2022,"$47,138.94",477
+Sarah Taylor,China,Organic Fair Trade,28/10/2022,"$19,084.77",252
+George Young,Brazil,Breakfast Blend,11/12/2022,"$2,852.55",61
+Jessica Garcia,Germany,Ethiopian Yirgacheffe,04/11/2023,"$32,541.80",435
+Laura Martinez,UK,Ethiopian Yirgacheffe,04/08/2022,"$8,064.59",226
+Karen Clark,Germany,Arabica Dark Roast,28/04/2023,"$21,385.93",418
+Betty King,Japan,Organic Fair Trade,20/10/2023,"$20,865.62",220
+Karen Clark,Germany,Robusta Medium,19/09/2022,"$24,108.39",252
+Jessica Garcia,Germany,Breakfast Blend,20/02/2023,"$22,293.01",241
+Emily Davis,France,Organic Fair Trade,26/10/2022,"$30,011.93",495
+David Anderson,China,Espresso Blend,01/06/2022,"$21,771.14",330
+Daniel Lee,Australia,Organic Fair Trade,18/05/2023,"$3,332.31",136
+Kevin Robinson,Canada,Espresso Blend,13/07/2022,"$3,682.67",89
+Daniel Lee,Australia,Ethiopian Yirgacheffe,08/12/2023,"$7,697.56",129
+Lisa Lewis,Japan,Arabica Dark Roast,18/11/2023,"$1,482.56",47
+Emily Davis,Germany,Ethiopian Yirgacheffe,19/12/2022,"$4,645.02",53
+Sarah Taylor,China,Organic Fair Trade,04/04/2023,"$10,589.79",390
+Jane Smith,India,Decaf House Blend,04/09/2022,"$14,798.59",387
+Jennifer Rodriguez,France,French Roast,26/10/2022,"$13,355.19",141
+George Young,India,Colombian Supremo,15/08/2022,"$32,459.70",403
+George Young,Australia,Decaf House Blend,15/05/2022,"$1,821.74",61
+Nancy Allen,Canada,Colombian Supremo,26/06/2023,"$1,598.46",17
+John Doe,USA,Arabica Dark Roast,08/09/2022,"$6,578.51",121
+John Doe,India,Decaf House Blend,07/07/2022,"$21,511.36",240
+Nancy Allen,Australia,French Roast,25/07/2023,"$9,855.36",255
+Lisa Lewis,UK,Ethiopian Yirgacheffe,07/11/2022,"$16,734.60",439
+Chris Wilson,USA,Hazelnut Cream,06/01/2023,"$7,272.06",101
+Betty King,USA,French Roast,08/02/2023,"$12,807.54",204
+Lisa Lewis,Australia,Organic Fair Trade,06/07/2022,"$7,642.80",117
+Nancy Allen,Brazil,Breakfast Blend,24/02/2023,"$12,797.74",137
+Karen Clark,Germany,Espresso Blend,04/04/2022,"$4,224.87",85
+Lisa Lewis,Japan,Organic Fair Trade,06/05/2023,"$30,951.93",389
+Brian Hall,Canada,Breakfast Blend,12/06/2022,"$10,017.67",346
+Emily Davis,Australia,Decaf House Blend,02/11/2022,"$5,410.05",66
+John Doe,France,Hazelnut Cream,26/07/2022,"$14,573.02",198
+Matthew Walker,USA,Arabica Dark Roast,04/12/2023,"$13,652.03",230
+Nancy Allen,China,Ethiopian Yirgacheffe,04/10/2022,"$8,812.99",122
+Nancy Allen,Brazil,French Roast,01/03/2022,"$22,736.70",315
+Brian Hall,Australia,Ethiopian Yirgacheffe,14/03/2023,"$35,364.16",404
+Jennifer Rodriguez,Germany,Decaf House Blend,16/09/2023,"$6,847.60",283
+Daniel Lee,China,Robusta Medium,02/04/2022,"$22,289.36",304
+Laura Martinez,France,Breakfast Blend,15/10/2022,"$11,786.21",393
+Michael Brown,UK,Colombian Supremo,08/08/2022,"$11,838.93",197
+Lisa Lewis,France,Breakfast Blend,18/03/2022,"$30,803.00",421
+Jessica Garcia,Canada,Hazelnut Cream,21/04/2022,"$11,504.41",137
+David Anderson,USA,Organic Fair Trade,10/01/2023,"$28,038.74",338
+Sarah Taylor,China,Arabica Dark Roast,14/03/2022,"$2,346.47",85
+George Young,Japan,Organic Fair Trade,01/01/2022,"$5,020.66",141
+Sarah Taylor,Canada,French Roast,07/08/2022,"$15,899.61",301
+Nancy Allen,UK,Ethiopian Yirgacheffe,09/08/2023,"$12,886.31",135
+Michael Brown,Australia,Ethiopian Yirgacheffe,10/02/2023,"$3,432.11",73
+Matthew Walker,Brazil,Arabica Dark Roast,06/06/2022,"$20,786.61",244
+Nancy Allen,USA,Espresso Blend,15/11/2023,"$23,115.37",298
+Robert Hernandez,China,Ethiopian Yirgacheffe,14/06/2023,"$18,025.24",207
+Jennifer Rodriguez,China,Ethiopian Yirgacheffe,21/10/2022,"$14,557.16",234
+Betty King,Japan,Decaf House Blend,28/04/2022,"$18,617.33",331
+Robert Hernandez,China,Espresso Blend,29/09/2022,"$7,328.83",127
+Jessica Garcia,France,French Roast,24/10/2022,"$29,645.96",354
+David Anderson,USA,Breakfast Blend,06/08/2022,"$12,714.26",427
